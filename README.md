@@ -12,5 +12,4 @@ name: The name of your module.
 version: The initial module version
 
 Install node module using:
-
 npm install <your-module-name>
