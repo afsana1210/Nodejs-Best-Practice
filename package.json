@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Nodejs Best Practice THIS REPOSITORY CONTAIN THE PRACTICE CODE ON THE DAILY BASIS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afsana1210/Nodejs-Best-Practice.git"
+  },
+  "author": "afsana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afsana1210/Nodejs-Best-Practice/issues"
+  },
+  "homepage": "https://github.com/afsana1210/Nodejs-Best-Practice#readme"
+}
